@@ -30,4 +30,6 @@ Immanuel Okoth
 Gloria Mich
  
 # Contact
+0712345678
+student@gmail.com
 
