@@ -1,6 +1,7 @@
 # Secure A life Insurance 
 SecureLIfe is a website that enables one to register for services any time regardless of time and place.
 
+
 ## Table of Contents
 # Installation
 1. Clone the repository:
@@ -15,9 +16,20 @@ git clone git@github.com:gloriamich-crypto/Group2project.git
 4. Push your branch: `git push origin feature-name`.
 5. Create a pull request.
 
+# Built with
+HTML
+CSS
+
 # License
 This project is licenced under Group 2
 
-## Author
+# Authors
 Jason Mumo
+Fideles Njoki
+Immanuel Okoth
+Gloria Mich
+ 
+# Contact
+0712345678
+student@gmail.com
 
