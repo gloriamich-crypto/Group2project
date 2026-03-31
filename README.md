@@ -17,19 +17,19 @@ git clone git@github.com:gloriamich-crypto/Group2project.git
 5. Create a pull request.
 
 # Built with
-HTML
-CSS
+-HTML
+-CSS
 
 # License
 This project is licenced under Group 2
 
 # Authors
-Jason Mumo
-Fideles Njoki
-Immanuel Okoth
-Gloria Mich
+-Jason Mumo
+-Fideles Njoki
+-Immanuel Okoth
+-Gloria Mich
  
 # Contact
-0712345678
-student@gmail.com
+-0712345678
+-student@gmail.com
 
