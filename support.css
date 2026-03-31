@@ -18,6 +18,9 @@ img{
     justify-content: flex-start;
     flex-direction: column;
     box-sizing: border-box;
+    border: 1px solid black;
+    padding: 10em;
+    box-shadow: 1px 5px 10px;
 
 }    
 nav{
@@ -25,12 +28,15 @@ nav{
     justify-content: flex-end;
     justify-content: space-around;
     padding: 20px;
+    background-color: blue;
+
 
 }
 nav a{
     text-decoration: none;
     font-size: larger;
     margin: auto;   
+    color: white;
 } 
 .info{
     display: flex;
