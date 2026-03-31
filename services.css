@@ -1,0 +1,151 @@
+@import url('https://fonts.googleapis.com/css2?family=Figtree:ital,wght@0,300..900;1,300..900&display=swap');
+
+h1{
+    font-family: "Figtree";
+    margin-bottom: 15px;
+    text-align: center;
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: "Figtree"; 
+    font-size: 16px;
+    line-height: 1.5;
+    color:#07004D;
+    background-color: #c1dbeb;
+}
+h2{
+    margin-bottom: 15px;
+}
+
+.img{
+    max-width: 100%;
+    
+}
+
+.container {
+    max-width: 1500px;
+    margin: 0 auto;
+    padding: 0 30px;
+}
+
+
+ul{
+    list-style-type: none;
+}
+
+
+.navbar{
+    background: #07004D;
+    color:white;
+    height: 60px;
+
+}
+
+.navbar a:hover{
+    color: #2D82B7;
+}
+
+.navbar a{
+    color: white;
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: bold;
+
+}
+
+.navbar .container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 100%;
+}
+
+.navbar ul{
+    display: flex;
+} 
+
+.navbar ul li{
+    margin-left: 20px;
+
+}
+
+.header{
+    background-color:#c1dbeb;
+    color: #07004D;
+    min-height: 0px;
+}
+
+.header h1{
+    font-size: 3rem;
+    font-weight: bold;
+    line-height: 1.2;
+}
+
+.header img{
+    max-width: 400px;
+}
+
+.header .container{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.boxes .container{
+    display: flex;
+    justify-content: center;
+    color: #07004D;
+    flex-wrap: wrap;
+    gap 20px;
+    padding: 20px 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+    width: 100%;
+    
+}
+
+.box{
+    
+    color: #07004D;
+    border-radius: 20px;
+    margin: 20px 10px;
+    box-shadow: 0 3px 5px ;
+    padding: 20px;
+    width: 90%;
+    max-width: 800px;
+
+}
+
+.box{
+    border: 2px solid #2D82B7
+;
+    border-radius: 15px;
+    transition: all 0.3s ease;
+}
+
+.box:hover{
+    transform: translateY(-5px);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+.item{
+    position: relative;
+    list-style: none;
+}
+
+
+@meadia(max-width: 700px){
+    
+}
+.containerh1{ 
+    margin: 0;
+    
+}
+ 
+
